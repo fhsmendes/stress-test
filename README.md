@@ -25,7 +25,8 @@ Tempo total gasto na execução
 Quantidade total de requests realizados.
 Quantidade de requests com status HTTP 200.
 Distribuição de outros códigos de status HTTP (como 404, 500, etc.).
-Execução da aplicação:
+
+### Execução da aplicação:
 Poderemos utilizar essa aplicação fazendo uma chamada via docker. 
 
 Ex:
